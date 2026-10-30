@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 254" width="1200" height="254" role="img" aria-label="Toolkit: JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Three.js, React Three Fiber, GSAP, GLSL, Firebase, Vite, GitHub, CI/CD, Vercel">
+  <rect x=".5" y=".5" width="1199" height="253" rx="18" fill="#fbfaf8" stroke="#e2dfd8"/>
+  <text x="56" y="69" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.8" fill="#7a5a1f">CORE</text>
+  <rect x="270" y="44" width="126" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="333" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">JavaScript</text>
+  <rect x="406" y="44" width="126" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="469" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">TypeScript</text>
+  <rect x="542" y="44" width="72" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="578" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">HTML</text>
+  <rect x="624" y="44" width="63" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="655.5" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">CSS</text>
+  <rect x="697" y="44" width="81" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="737.5" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">React</text>
+  <rect x="788" y="44" width="99" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="837.5" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Next.js</text>
+  <rect x="897" y="44" width="144" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="969" y="69" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Tailwind CSS</text>
+  <text x="56" y="133" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.8" fill="#7a5a1f">MOTION AND 3D</text>
+  <rect x="270" y="108" width="108" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="324" y="133" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Three.js</text>
+  <rect x="388" y="108" width="188" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="482" y="133" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">React Three Fiber</text>
+  <rect x="586" y="108" width="72" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="622" y="133" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">GSAP</text>
+  <rect x="668" y="108" width="72" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="704" y="133" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">GLSL</text>
+  <text x="56" y="197" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.8" fill="#7a5a1f">SHIPPING</text>
+  <rect x="270" y="172" width="108" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="324" y="197" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Firebase</text>
+  <rect x="388" y="172" width="72" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="424" y="197" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Vite</text>
+  <rect x="470" y="172" width="90" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="515" y="197" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">GitHub</text>
+  <rect x="570" y="172" width="81" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="610.5" y="197" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">CI/CD</text>
+  <rect x="661" y="172" width="90" height="38" rx="19" fill="none" stroke="#e2dfd8"/>
+  <text x="706" y="197" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#151413">Vercel</text>
+</svg>
